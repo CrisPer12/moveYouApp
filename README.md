@@ -50,10 +50,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/alexandredev3/moveit-nlw4.git
+$ git clone https://github.com/CrisPer12/moveYouApp.git
 
-# Vá para a pasta moveit-nlw4
-$ cd moveit-nlw4
+# Vá para a pasta moveyou-next
+$ cd moveyou-next
 
 # Instale as dependências
 $ npm install 
