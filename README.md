@@ -12,7 +12,9 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<img src="./.github/images/nlw4-image-documentation.svg" />
+
+
+<img src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
 
 ## :page_facing_up: Descrição
 O Moveyou é um app que usa a técnica de Pomodoro, uma aplicação desenvolvida duarante a NLW#4 da Rocktseat.
