@@ -14,9 +14,9 @@
 
 
 
-<img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
-<img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image2.JPG" />
-<img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />
+<img align="center" width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
+<img align="center" width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image2.JPG" />
+<img align="center" width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />
 
 ## :page_facing_up: Descrição
 O Moveyou é um app que usa a técnica de Pomodoro, uma aplicação desenvolvida durante a NLW#4 da Rocktseat.
