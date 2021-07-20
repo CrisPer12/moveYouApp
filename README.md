@@ -19,7 +19,7 @@
 <img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />
 
 ## :page_facing_up: Descrição
-O Moveyou é um app que usa a técnica de Pomodoro, uma aplicação desenvolvida duarante a NLW#4 da Rocktseat.
+O Moveyou é um app que usa a técnica de Pomodoro, uma aplicação desenvolvida durante a NLW#4 da Rocktseat.
 
 ## :art: Layout
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>.
