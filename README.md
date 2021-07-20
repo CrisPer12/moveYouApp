@@ -14,9 +14,9 @@
 
 
 <div align="center">
-  <img  width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
-  <img  width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image2.JPG" />
-  <img  width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />,
+  <img  width="700px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
+  <img  width="700px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image2.JPG" />
+  <img  width="700px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />,
 </div>
 
 ## :page_facing_up: Descrição
